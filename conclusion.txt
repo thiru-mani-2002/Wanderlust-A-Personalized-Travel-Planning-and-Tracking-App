@@ -1,0 +1,18 @@
+					CONCLUSION:
+
+
+1. This application is based on travelling app which showcasts some of the best tourist places around the globe.
+
+2. The source code is written in Kotlin programming language..
+
+3. The colors and other attributes are all provided in the source code itself..
+
+4. Our application's name is "Discovery"..
+
+5. There will be login page for all the registered and non-registered users.
+
+6. For registered users, they can simply login to the page via their username and password.
+
+7. For non-registered users , they need to sign up for their account and then log in..
+
+8. Once entered , they can have the best travelling app in the world created by us ..

@@ -1,0 +1,14 @@
+				FUTURE SCOPE:
+
+
+1. Our application provides some of the important  places across the globe . This can be updated with the newly included places
+in the future..
+
+2. Different layouts might be added for a good user interaction..
+
+3. The places and cities might be added with their respected pictures to get a grand response across the globe..
+
+4. The user's search history can be added for their future use..
+
+5. Automatic updating of the application might be provided via machine learning and AI algorithms in the future..
+

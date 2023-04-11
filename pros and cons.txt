@@ -1,0 +1,18 @@
+		ADVANTAGES AND DISADVANTAGES:
+
+ADVANTAGES:
+
+1. The users can be able to get the best of their choices for their chosen vacation.
+
+2. The application will provide all the  necessary details according to the preferred location
+of the travelling place..
+
+3. It will also provide the famous things in each and every cities with their respective pictures...
+
+4. Better security protection
+
+DISADVANTAGES: 
+
+1. This application portrays only the important places and not others in the travel map..
+
+2. One can't deduce cost in this application..
